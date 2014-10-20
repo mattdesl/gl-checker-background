@@ -1,0 +1,42 @@
+{
+  "name": "gl-checker-background",
+  "version": "1.0.0",
+  "description": "checkered full-screen background for GL demos",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "gl-basic-shader": "^1.2.2",
+    "gl-checker-texture": "^1.0.0",
+    "gl-sprite-batch": "^3.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "gl",
+    "stackgl",
+    "webgl",
+    "glsl",
+    "checker",
+    "background",
+    "photoshop",
+    "transparent",
+    "transparency",
+    "demo",
+    "quad"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/gl-checker-background.git"
+  },
+  "homepage": "https://github.com/mattdesl/gl-checker-background",
+  "bugs": {
+    "url": "https://github.com/mattdesl/gl-checker-background/issues"
+  }
+}
